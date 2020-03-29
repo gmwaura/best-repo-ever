@@ -1,5 +1,7 @@
 # best-repo-ever
 
 This has been updated
-changes on branch 2
+<<<<<<< HEAD
+Changes have been made on the new branch
+>>>>>>> origin/master
 
